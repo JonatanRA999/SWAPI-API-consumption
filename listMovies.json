@@ -1,0 +1,29 @@
+{
+  "listMovies": [
+    {
+      "title": "A New Hope",
+      "nameDirector": "George Lucas",
+      "releaseDate": 1977
+    },
+    {
+      "title": "The Empire Strikes Back",
+      "nameDirector": "Irvin Kershner",
+      "releaseDate": 1980
+    },
+    {
+      "title": "Return of the Jedi",
+      "nameDirector": "Richard Marquand",
+      "releaseDate": 1983
+    },
+    {
+      "title": "The Phantom Menace",
+      "nameDirector": "George Lucas",
+      "releaseDate": 1999
+    },
+    {
+      "title": "Attack of the Clones",
+      "nameDirector": "George Lucas",
+      "releaseDate": 2002
+    }
+  ]
+}
